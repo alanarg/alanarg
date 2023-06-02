@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanarg&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanarg&layout=compact)](https://github.com/alanarg)
-![Snake animation](https://github.com/rafaballerini/alanarg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alanarg/alanarg/blob/output/github-contribution-grid-snake.svg)
 
 
 
