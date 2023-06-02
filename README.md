@@ -3,8 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/alan-arguelho-99b429195/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanarg&show_icons=true&theme=radical)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanarg&layout=compact)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanarg&layout=compact)](https://github.com/alanarg)
+![Snake animation](https://github.com/rafaballerini/alanarg/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## Sobre Mim 😁✏️
